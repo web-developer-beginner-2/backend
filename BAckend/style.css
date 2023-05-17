@@ -1,0 +1,23 @@
+
+
+ .container {
+    display: grid;
+    grid-template-columns: repeat(6,200px);
+    gap: 25px;
+ }
+
+.active {
+     
+}
+
+.sss {
+    font-size: 10px; 
+    position: relative;
+    top: 180px;
+    
+}
+
+.size {
+    width: 150px;
+    height: 150px;
+}
